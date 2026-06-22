@@ -1,0 +1,19 @@
+# Go build artifacts
+/dist/
+*.test
+*.out
+
+# Coverage profiles
+coverage.txt
+coverage.html
+*.coverprofile
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Local config / secrets
+*.local.yaml
+*.env
